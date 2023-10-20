@@ -54,7 +54,7 @@ No more clicking through endless menus or decoding tech jargon. Just type what y
 
 - Login to: https://make.powerautomate.com/ 
 - Go to Solutions and import the Power Automate Flow. 
-- Here you can download the flow as zip file: [Download the Power Automate Flow](https://github.com/mimergel/Azure_OpenAI_powered_SAP-Self-Services/raw/main/flow/SAPSelfService_1_0_0_3.zip)
+- Here you can download the flow as zip file: [Download the Power Automate Flow](https://github.com/mimergel/Azure_OpenAI_powered_SAP-Self-Services/raw/main/flow/SAPSelfService_1_0_0_4.zip)
 
 
     ![Import the Flow](images/import-flow.jpg) <br>
