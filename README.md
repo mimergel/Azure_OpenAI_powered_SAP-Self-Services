@@ -59,15 +59,6 @@ No more clicking through endless menus or decoding tech jargon. Just type what y
 
     ![Import the Flow](images/import-flow.jpg) <br>
 
-- Change the connection references in below steps. This is required because the flow was imported from another environment.
-    - Get my profile (V2)
-    - Call SAP function (V2) (For case A, B & C)
-    - Send an email (V2)
-    - Post card in chat or channel
-    - Create item (in Sharepoint)
-- Save the Flow
-- "Turn on" the flow.
-- In case you're insterested to understand each step in the flow: [Description of the Flow](flow/README.md)
 
 ## Adapt the HTTP Connector in the Flow
 
@@ -77,6 +68,8 @@ No more clicking through endless menus or decoding tech jargon. Just type what y
     ![Get URI and KEY](images/get-uri-key.jpg) <br>
 
 - URI example: https://[your endpoint].openai.azure.com/openai/deployments/[deployed model name]]/chat/completions?api-version=2023-07-01-preview
+
+- Edit the Flow
 - Enter the URI and KEY in the respective fields of the HTTP Connector. <br>
 
     ![Enter URI and KEY in HTTP Connector](images/change-uri-key.jpg) <br>
