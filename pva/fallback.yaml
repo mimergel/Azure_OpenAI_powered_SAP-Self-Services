@@ -33,6 +33,22 @@ beginDialog:
       id: 1e7GXm
       activity: "{Topic.Generatedanswer}"
 
+    - kind: ConditionGroup
+      id: conditionGroup_4UgqoJ
+      conditions:
+        - id: conditionItem_Z2MsM2
+          condition: =Topic.OriginalUnrecognizedTriggerPhrase = "action done"
+          actions:
+            - kind: SetVariable
+              id: setVariable_9i3PYB
+              variable: Global.FullDialog
+              value: "=\"\""
+
+            - kind: SetVariable
+              id: setVariable_ZMuPlS
+              variable: Topic.OriginalUnrecognizedTriggerPhrase
+              value: "=\"\""
+
     - kind: SetVariable
       id: LdqZIw
       variable: Global.FullDialog

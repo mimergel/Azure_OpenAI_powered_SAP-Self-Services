@@ -54,7 +54,7 @@ No more clicking through endless menus or decoding tech jargon. Just type what y
 
 - Login to: https://make.powerautomate.com/ 
 - Go to Solutions and import the Power Automate Flow. 
-- Here you can download the flow as zip file: [Download the Power Automate Flow](https://github.com/mimergel/Azure_OpenAI_powered_SAP-Self-Services/raw/main/flow/SAPSelfService_1_0_0_4.zip)
+- Here you can download the flow as zip file: [Download the Power Automate Flow](https://github.com/mimergel/Azure_OpenAI_powered_SAP-Self-Services/raw/main/flow/SAPSelfService_1_0_0_5.zip)
 
 
     ![Import the Flow](images/import-flow.jpg) <br>
@@ -143,13 +143,19 @@ No more clicking through endless menus or decoding tech jargon. Just type what y
 
 ## Test & Publish the Bot
 
-- Test the Bot: <br>
+- Test the Bot:
 
-    ![Test](images/bot-test.jpg) <br>
+    ![Test](images/bot-test.jpg)
 
-- When OK publish the bot: <br>
+    ![Test](images/bot-test2.jpg)
 
-    ![Publish](images/publish.jpg) <br>
+- When OK publish the bot:
+
+    ![Publish](images/publish.jpg)
+
+- Activate and Open the Bot in Teams
+
+    ![Publish](images/activate-open.jpg) <br>
 
 - Open the Bot in Teams and test: <br>
 
@@ -165,5 +171,7 @@ No more clicking through endless menus or decoding tech jargon. Just type what y
 - The logs of the flow run provide helpful error messages.  <br>
 
     ![Troubleshooting 1](images/troubleshooting1.jpg) <br>
+
+- Example with a timeout error: 
 
     ![Troubleshooting 2](images/troubleshooting2.jpg) <br>
