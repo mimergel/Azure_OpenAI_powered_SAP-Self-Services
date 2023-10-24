@@ -6,14 +6,15 @@ Unlike traditional bots, where users are constrained to rigid, predefined pathwa
 
 No more clicking through endless menus or decoding tech jargon. Just type what you need, like checking if your account is locked, finding out the status of a job, or schedule a system maintenance. Just write in plain English in your natural language. It’s as easy as chatting with a friend - quick, straightforward, and no hassle!
 
-**Greetings in Teams**
-
-![Greetings](images/greetings.jpg)
-
 
 **Architecture**
 
 ![High Level Process](images/high-level-process.jpg)
+
+
+**Greetings in Teams**
+
+![Greetings](images/greetings.jpg)
 
 
 ## Prerequesites
