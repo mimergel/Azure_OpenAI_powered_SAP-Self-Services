@@ -92,7 +92,9 @@ No more clicking through endless menus or decoding tech jargon. Just type what y
     ![Change Connections](images/change-all-connections.jpg) <br>
 
 - Change all 3 SAP ERP Connectors
-- Update the JSON connection definition in "SAP System" field to match your SAP system(s). I'll explain separately how you can change the flow to connect to multiple SAP systems. 
+- Update the JSON connection definition in "SAP System" field to match your SAP system(s). 
+- For simplicity there is only one SID per case in the flow. 
+- Please follow this documentation to handle mutliple SAP SIDs in each case:  [Multiple SIDs](misc/mutliple-sap-sids.md)
 
     ![Change SAP ERP](images/change-sap-erp-1.jpg) <br>
 
@@ -176,3 +178,8 @@ No more clicking through endless menus or decoding tech jargon. Just type what y
 - Example with a timeout error: 
 
     ![Troubleshooting 2](images/troubleshooting2.jpg) <br>
+
+
+## Disclaimer
+
+THE CONTENT OF THIS REPOSITORY IS PROVIDED AS IS WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING ANY IMPLIED WARRANTIES OF FITNESS FOR A PARTICULAR PURPOSE, MERCHANTABILITY, OR NON-INFRINGEMENT.
