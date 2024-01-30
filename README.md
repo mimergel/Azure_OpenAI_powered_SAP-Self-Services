@@ -180,6 +180,14 @@ No more clicking through endless menus or decoding tech jargon. Just type what y
     ![Troubleshooting 2](images/troubleshooting2.jpg) <br>
 
 
+## Contributing
+
+Contributions to enhance the capabilities are welcome.
+
+## License
+
+This project is licensed under the MIT License.
+
 ## Disclaimer
 
 THE CONTENT OF THIS REPOSITORY IS PROVIDED AS IS WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING ANY IMPLIED WARRANTIES OF FITNESS FOR A PARTICULAR PURPOSE, MERCHANTABILITY, OR NON-INFRINGEMENT.
